@@ -1,16 +1,14 @@
-### Hi there 👋
+# Summary:
+As a skilled and experienced DevOps Engineer, I specialize in designing, implementing, and maintaining infrastructure that drives efficient and scalable development and operations processes. With a strong background in software development, I am adept at collaborating with cross-functional teams to deliver high-quality products and services to clients.
 
-<!--
-**MehdiShavandi/MehdiShavandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My expertise in cloud computing, containerization, and automation tools such as Jenkins, Ansible, and Docker enables me to streamline workflows, optimize deployments, and increase system reliability. I thrive in fast-paced environments and possess strong problem-solving and communication skills that allow me to effectively troubleshoot issues and communicate solutions to stakeholders.
 
-Here are some ideas to get you started:
+I am passionate about staying ahead of the curve when it comes to emerging technologies and best practices in DevOps. I am always seeking opportunities to learn and grow, both personally and professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're looking for a skilled DevOps Engineer with a proven track record of success, please don't hesitate to connect with me. I'm open to discussing new opportunities and exploring ways to add value to your organization.
+
+
+# Tech Stack:
+![Linux](https://img.shields.io/badge/linux-%23D42029?style=for-the-badge&logo=linux&logoColor=white) ![DevOps](https://img.shields.io/badge/devops-0A66C2?style=for-the-badge&logo=devops&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  ![Gitlab](https://img.shields.io/badge/Gitlab-%235835CC.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ceph](https://img.shields.io/badge/Ceph-%23D42029?style=for-the-badge&logo=Ceph&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23D42029?style=for-the-badge&logo=Prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/loki-%231A1918.svg?style=for-the-badge&logo=loki&logoColor=white) ![ELK](https://img.shields.io/badge/elk-%23009639.svg?style=for-the-badge&logo=elk&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-%23D42029?style=for-the-badge&logo=OpenStack&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23009639.svg?style=for-the-badge&logo=argo&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+
