@@ -1,11 +1,5 @@
 # Summary:
-As a skilled and experienced DevOps Engineer, I specialize in designing, implementing, and maintaining infrastructure that drives efficient and scalable development and operations processes. With a strong background in software development, I am adept at collaborating with cross-functional teams to deliver high-quality products and services to clients.
-
-My expertise in cloud computing, containerization, and automation tools such as Jenkins, Ansible, and Docker enables me to streamline workflows, optimize deployments, and increase system reliability. I thrive in fast-paced environments and possess strong problem-solving and communication skills that allow me to effectively troubleshoot issues and communicate solutions to stakeholders.
-
-I am passionate about staying ahead of the curve when it comes to emerging technologies and best practices in DevOps. I am always seeking opportunities to learn and grow, both personally and professionally.
-
-If you're looking for a skilled DevOps Engineer with a proven track record of success, please don't hesitate to connect with me. I'm open to discussing new opportunities and exploring ways to add value to your organization.
+Passionate and inspired by witnessing the growth of new technologies and global developments, I decided to join Devops. As a person committed to innovation and progress, my goal at Devops is to use my experience in the fields of software development and information technology to solve the challenges facing these companies. I believe that the coordination between my technical capabilities and the strategic goals of Devops will help me to promote the success of these companies with active participation and continuous effort and achieve long-term goals with a dynamic team.
 
 
 # Tech Stack:
