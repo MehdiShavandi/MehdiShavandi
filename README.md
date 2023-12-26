@@ -1,8 +1,23 @@
-# Summary:
+<h1 align="center">Hey! I'm Mehdi</h1>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MehdiShavandi&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,PullRequest,Issues,Stars,Followers,Experience" alt="Trophies" />
+</p>
+
+## About Me
+
 Passionate and inspired by witnessing the growth of new technologies and global developments, I decided to join Devops. As a person committed to innovation and progress, my goal at Devops is to use my experience in the fields of software development and information technology to solve the challenges facing these companies. I believe that the coordination between my technical capabilities and the strategic goals of Devops will help me to promote the success of these companies with active participation and continuous effort and achieve long-term goals with a dynamic team.
 
+- I love learning how things work.
+- How to reach me: via [mail](mailto:mhdi.shavandi@gmail.com)
+- Check out [my persian blog in virgool](https://virgool.io/@mhdi_shavandi) and [my Shell](https://shavandy.ir).
 
-# Tech Stack:
-![Linux](https://img.shields.io/badge/linux-%23D42029?style=for-the-badge&logo=linux&logoColor=white) ![DevOps](https://img.shields.io/badge/devops-0A66C2?style=for-the-badge&logo=devops&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  ![Gitlab](https://img.shields.io/badge/Gitlab-%235835CC.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ceph](https://img.shields.io/badge/Ceph-%23D42029?style=for-the-badge&logo=Ceph&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23D42029?style=for-the-badge&logo=Prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/loki-%231A1918.svg?style=for-the-badge&logo=loki&logoColor=white) ![ELK](https://img.shields.io/badge/elk-%23009639.svg?style=for-the-badge&logo=elk&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-%23D42029?style=for-the-badge&logo=OpenStack&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23009639.svg?style=for-the-badge&logo=argo&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+## Stats
 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=MehdiShavandi&show_icons=true&theme=algolia"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiShavandi&layout=compact&theme=algolia" alt="MehdiShavandi" /> 
+</p>
