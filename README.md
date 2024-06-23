@@ -6,7 +6,7 @@
 
 ## About Me
 
-Passionate and inspired by witnessing the growth of new technologies and global developments, I decided to join Devops. As a person committed to innovation and progress, my goal at Devops is to use my experience in the fields of software development and information technology to solve the challenges facing these companies. I believe that the coordination between my technical capabilities and the strategic goals of Devops will help me to promote the success of these companies with active participation and continuous effort and achieve long-term goals with a dynamic team.
+ I am DevOps enthusiast, constantly striving to deepen my knowledge and stay up-to-date. I enjoy learning and endeavor to share my knowledge with others. Throughout my life, my goal has been to identify my weaknesses and work on them, such as stress management, which is highly impactful in our field. I am committed to my work and strive to complete any task entrusted to me in the best possible way to help the company grow. Additionally, I seek to be part of a team that fosters my growth.
 
 - I love learning how things work.
 - How to reach me: via [mail](mailto:mhdi.shavandi@gmail.com)
