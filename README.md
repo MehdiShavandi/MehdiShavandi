@@ -6,7 +6,7 @@
 
 ## About Me
 
- I am DevOps enthusiast, constantly striving to deepen my knowledge and stay up-to-date. I enjoy learning and endeavor to share my knowledge with others. Throughout my life, my goal has been to identify my weaknesses and work on them, such as stress management, which is highly impactful in our field. I am committed to my work and strive to complete any task entrusted to me in the best possible way to help the company grow.
+Motivated DevOps Engineer with expertise in automation, system optimization, and infrastructure management. Skilled in streamlining development workflows and implementing scalable solutions. Passionate about continuous learning and effective collaboration. Holds a degree in Software Engineering from Islamic Azad University.
 
 - I love learning how things work.
 - How to reach me: via [mail](mailto:mhdi.shavandi@gmail.com)
